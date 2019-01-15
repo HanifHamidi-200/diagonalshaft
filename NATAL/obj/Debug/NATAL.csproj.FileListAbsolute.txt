@@ -1,0 +1,10 @@
+C:\Users\hanif\Desktop\diagonalshaft\NATAL\bin\Debug\NATAL.exe.config
+C:\Users\hanif\Desktop\diagonalshaft\NATAL\bin\Debug\NATAL.exe
+C:\Users\hanif\Desktop\diagonalshaft\NATAL\bin\Debug\NATAL.pdb
+C:\Users\hanif\Desktop\diagonalshaft\NATAL\obj\Debug\NATAL.csprojAssemblyReference.cache
+C:\Users\hanif\Desktop\diagonalshaft\NATAL\obj\Debug\NATAL.Form1.resources
+C:\Users\hanif\Desktop\diagonalshaft\NATAL\obj\Debug\NATAL.Properties.Resources.resources
+C:\Users\hanif\Desktop\diagonalshaft\NATAL\obj\Debug\NATAL.csproj.GenerateResource.cache
+C:\Users\hanif\Desktop\diagonalshaft\NATAL\obj\Debug\NATAL.csproj.CoreCompileInputs.cache
+C:\Users\hanif\Desktop\diagonalshaft\NATAL\obj\Debug\NATAL.exe
+C:\Users\hanif\Desktop\diagonalshaft\NATAL\obj\Debug\NATAL.pdb
