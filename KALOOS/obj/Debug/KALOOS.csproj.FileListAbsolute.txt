@@ -8,3 +8,6 @@ C:\Users\hanif\Desktop\diagonalshaft\KALOOS\obj\Debug\KALOOS.csproj.GenerateReso
 C:\Users\hanif\Desktop\diagonalshaft\KALOOS\obj\Debug\KALOOS.csproj.CoreCompileInputs.cache
 C:\Users\hanif\Desktop\diagonalshaft\KALOOS\obj\Debug\KALOOS.exe
 C:\Users\hanif\Desktop\diagonalshaft\KALOOS\obj\Debug\KALOOS.pdb
+C:\Users\hanif\Desktop\diagonalshaft\KALOOS\obj\Debug\KALOOS.fSub1.resources
+C:\Users\hanif\Desktop\diagonalshaft\KALOOS\obj\Debug\KALOOS.fSub2.resources
+C:\Users\hanif\Desktop\diagonalshaft\KALOOS\obj\Debug\KALOOS.fSub3.resources

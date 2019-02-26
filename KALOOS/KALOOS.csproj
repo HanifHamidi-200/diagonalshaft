@@ -78,6 +78,15 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="fSub1.resx">
+      <DependentUpon>fSub1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fSub2.resx">
+      <DependentUpon>fSub2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fSub3.resx">
+      <DependentUpon>fSub3.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -102,6 +111,19 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="F rocket.ico" />
+    <Content Include="icons2\F pic1.png" />
+    <Content Include="icons2\F pic2.png" />
+    <Content Include="icons2\F pic3.png" />
+    <Content Include="icons2\F pic4.png" />
+    <Content Include="icons3\F cloudvision.png" />
+    <Content Include="icons3\F devilface.png" />
+    <Content Include="icons3\F NullGate.png" />
+    <Content Include="icons3\F paddyfield.png" />
+    <Content Include="icons3\F robot.png" />
+    <Content Include="icons3\F YOU.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="icons1\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
